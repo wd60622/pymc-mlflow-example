@@ -20,6 +20,8 @@ There are four scripts:
 
 Kick them off with `make experiments`. View with `make serve`. Clean up with `make clean_up`.
 
+Use the `environment.yml` file to create the conda environment. i.e. `conda env create -f environment.yml`.
+
 ## Resources
 
 - [`pymc_marketing.mlflow` module](https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mlflow.html)
