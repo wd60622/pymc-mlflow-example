@@ -6,6 +6,8 @@ This focuses on logging parameters, metrics, and artifacts to MLflow.
 
 ![Autologging](./images/autolog.png)
 
+Suggestions or Questions? [Create an Issue on PyMC-Marketing](https://github.com/pymc-labs/pymc-marketing/issues/new)
+
 ## Scripts
 
 There are four scripts: 
@@ -20,3 +22,4 @@ Kick them off with `make experiments`. View with `make serve`. Clean up with `ma
 ## Resources
 
 - [`pymc_marketing.mlflow` module](https://www.pymc-marketing.io/en/latest/api/generated/pymc_marketing.mlflow.html)
+- [MLflow Documentation](https://www.mlflow.org/docs/latest/index.html)
