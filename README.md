@@ -1,12 +1,12 @@
 # PyMC with MLflow
 
-This is a simple example of using PyMC with MLflow.
+These are simple examples of using PyMC with MLflow.
 
 This focuses on logging parameters, metrics, and artifacts to MLflow.
 
 ![Autologging](./images/autolog.png)
 
-Suggestions or Questions? [Create an Issue on PyMC-Marketing](https://github.com/pymc-labs/pymc-marketing/issues/new)
+Suggestions or Questions? [Comment on this Issue](https://github.com/pymc-labs/pymc-marketing/issues/938)
 
 ## Scripts
 

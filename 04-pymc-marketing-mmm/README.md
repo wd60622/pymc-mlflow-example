@@ -5,3 +5,6 @@ configurations](./run-config.yaml) and logs each as a separate run in MLflow.
 The script leverages the `pymc_marketing.mlflow.autolog` function as well as
 various `mlflow` log functions in order to customize the logging of the model.
 
+![Autologging](./../images/mmm-autolog.png)
+![Autolog Artifacts](./../images/mmm-autolog-artifacts.png)
+
