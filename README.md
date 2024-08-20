@@ -1,6 +1,7 @@
 # PyMC with MLflow
 
-These are simple examples of using PyMC with MLflow.
+These are simple examples of using PyMC with MLflow, taking advantage of the
+`pymc_marketing.mlflow` module.
 
 This focuses on logging parameters, metrics, and artifacts to MLflow.
 
