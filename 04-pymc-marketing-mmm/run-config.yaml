@@ -1,0 +1,12 @@
+adstocks: 
+  - lookup_name: geometric
+    priors: {}
+    l_max: 10
+saturations: 
+  - lookup_name: logistic
+    priors: {}
+  - lookup_name: hill
+    priors: {} 
+yearly_seasonality: 
+  - 3
+  - 7
